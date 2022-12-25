@@ -1,0 +1,43 @@
+.topic{
+    color: aquamarine;
+    font-size: 40px;
+    margin-left: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', ;
+    font-weight: 700;
+}
+.backgroundd-image{
+    background-image:
+    linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(img/pexels-pixabay-235985.jpg);
+    background-size: cover;
+    
+    background-position: center;
+    height: 220vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    
+    
+}
+.content{
+    color: rgb(255, 255, 255);
+    max-width:1300px;
+    min-width: 1000px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 23px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: left;
+}
+
+p{
+    margin-top: 15px;
+}
+
+.st{
+    margin-bottom: 3px;
+    color: rgb(127, 9, 170);
+    font-weight: 800;
+    font-size: 27px;
+    -webkit-text-stroke-width: .01px;
+    -webkit-text-stroke-color: rgb(255, 255, 29);
+}
+

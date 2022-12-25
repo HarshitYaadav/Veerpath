@@ -1,0 +1,32 @@
+
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+.prep{
+    color: blanchedalmond;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+a{
+    font-size: 30px;
+    color: rgb(171, 125, 255);
+    text-decoration: none;
+    margin-left: 40px  ;
+    
+}
+
+a:hover{
+    color: rgb(37, 255, 128);
+}
+
+.note{
+    color: rgb(237, 251, 110);
+    font-size: 20px;
+    text-align: center;
+    margin-top: 80px;
+}
