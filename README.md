@@ -8,4 +8,10 @@ This is the first practice project I have done using HTML and CSS
   
 took inspiration from various website templates
 
->>>>>>>>>>>>Peace<<<<<<<<<<<<<
+link to my website :
+
+https://harshityaadav.github.io/Veerpath/
+
+>>>>>>>>>>>>>>peace<<<<<<<<<<<
+
+
